@@ -5,4 +5,6 @@ Since the results could be improved when using a NN that captures context from s
 
 To run the code, please make sure to first install the required packages.
 
+Furthermore, the required files should be uploaded to the inputs folder in this repo.
+
 I am happy to go through the code together soon and discuss the decisions, pitfalls and future improvements together.
