@@ -1,0 +1,8 @@
+numpy
+argparse
+json
+pickle
+torch
+nltk
+sklearn
+matplotlib
